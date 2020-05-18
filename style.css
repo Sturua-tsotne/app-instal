@@ -59,3 +59,9 @@ li a {
 li a:hover {
     background-color: #111;
 }
+
+.footer {
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
